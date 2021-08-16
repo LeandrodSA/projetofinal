@@ -1,5 +1,5 @@
-App Hibrido
-APP Profissional Disponível
+**App Hibrido**
+**APP Profissional Disponível**
 
 Assunto do App
 Disponibilizá um ambiente para profissional se colocara a disposição de novos clientes e novas oportunidade de contratação
