@@ -1,6 +1,6 @@
 <h1 align="center">APP Profissional Disponível</h2>
 
-<h2>App Hibrido</h2>
+App Hibrido
 
 <h2>Assunto do App</h2>
 
