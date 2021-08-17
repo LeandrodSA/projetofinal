@@ -1,3 +1,4 @@
+
 <h1 align="center">APP Profissional Disponível</h2>
 
 App Hibrido
@@ -21,7 +22,7 @@ Oportunidade de trabalho para os melhores Profissionais.
 
 ![Profissional](https://user-images.githubusercontent.com/63527915/129629064-60445901-5000-4711-bfe9-7dab235394ad.jpg)
 
-![figma](https://user-images.githubusercontent.com/63527915/129630051-c0b77a12-7986-4583-b035-ab2cc3b20f7a.PNG)
+![figma](https://user-images.githubusercontent.com/63527915/129809149-ffe05fa9-522c-4ef9-83c0-2c9d02d99f20.PNG)
 
 <h2>Cores</h2>
 
