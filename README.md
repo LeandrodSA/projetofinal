@@ -1,12 +1,12 @@
-<h1 align="center"> APP Profissional Disponível
+<h1 align="center">APP Profissional Disponível
 
-## **App Hibrido**
+<h2>App Hibrido
 
-**Assunto do App**
+<h2>Assunto do App
 
 Disponibilizá um ambiente para profissional se colocara a disposição de novos clientes e novas oportunidade de contratação
 
-**Pontos Positivos**
+<h2>Pontos Positivos
 
 Profissionais disponíveis perto do cliente.
 Sem medo de problemas com o serviço.
@@ -14,7 +14,7 @@ Escolher pelo perfil do profissional.
 Profissional com clientes agendados.
 Oportunidade de trabalho para os melhores Profissionais.
 
-**Pontos Negativo**
+<h2>Pontos Negativo
 
 
 
@@ -23,7 +23,7 @@ Oportunidade de trabalho para os melhores Profissionais.
 
 ![figma](https://user-images.githubusercontent.com/63527915/129630051-c0b77a12-7986-4583-b035-ab2cc3b20f7a.PNG)
 
-**Cores**
+<h2>Cores
 
 ![image](https://user-images.githubusercontent.com/63527915/129630208-345ce777-2788-467d-8ffb-b80dfee8adcb.png) 243951
 
@@ -35,7 +35,7 @@ Oportunidade de trabalho para os melhores Profissionais.
 ![image](https://user-images.githubusercontent.com/63527915/129630262-61e0a914-049b-4efc-bde4-a2e8c6991425.png) FFFFFF
 
 
-**Taxonomia**
+<h2>Taxonomia
 
 ![image](https://user-images.githubusercontent.com/63527915/129629376-01e0166a-d55c-43e7-b788-dedf05506236.png)
 
