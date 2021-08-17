@@ -1,12 +1,12 @@
-<h1 align="center">APP Profissional Disponível
+<h1 align="center">APP Profissional Disponível</h2>
 
-<h2>App Hibrido
+<h2>App Hibrido</h2>
 
-<h2>Assunto do App
+<h2>Assunto do App</h2>
 
 Disponibilizá um ambiente para profissional se colocara a disposição de novos clientes e novas oportunidade de contratação
 
-<h2>Pontos Positivos
+<h2>Pontos Positivos</h2>
 
 Profissionais disponíveis perto do cliente.
 Sem medo de problemas com o serviço.
@@ -14,7 +14,7 @@ Escolher pelo perfil do profissional.
 Profissional com clientes agendados.
 Oportunidade de trabalho para os melhores Profissionais.
 
-<h2>Pontos Negativo
+<h2>Pontos Negativo</h2>
 
 
 
