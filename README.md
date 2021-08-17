@@ -1,4 +1,4 @@
-<h1 align="center"> **APP Profissional Disponível**
+<h1 align="center"> APP Profissional Disponível
 
 ## **App Hibrido**
 
