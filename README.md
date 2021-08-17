@@ -4,7 +4,7 @@ App Hibrido
 
 <h2>Assunto do App</h2>
 
-Disponibilizá um ambiente para profissional se colocara a disposição de novos clientes e novas oportunidade de contratação
+Disponibilizá um ambiente para o profissional se colocara a disposição de novos clientes e novas oportunidade de contratação
 
 <h2>Pontos Positivos</h2>
 
