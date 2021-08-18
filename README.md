@@ -24,6 +24,8 @@ Oportunidade de trabalho para os melhores Profissionais.
 
 ![figma](https://user-images.githubusercontent.com/63527915/129809149-ffe05fa9-522c-4ef9-83c0-2c9d02d99f20.PNG)
 
+![figma](https://www.figma.com/file/7CghtKTjxaog7HccXImhKc/Untitled?node-id=0%3A1)
+
 <h2>Cores</h2>
 
 ![image](https://user-images.githubusercontent.com/63527915/129630208-345ce777-2788-467d-8ffb-b80dfee8adcb.png) 243951
