@@ -41,7 +41,7 @@ class _LoginState extends State<Login> {
             ElevatedButton(
               child: Text(
                 'Login',
-                style: TextStyle(,
+                style: TextStyle(
                     fontWeight: FontWeight.bold,
                     color: Color(0xFF000000),
                     fontSize: 36),
