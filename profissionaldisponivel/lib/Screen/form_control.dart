@@ -20,15 +20,16 @@ class _myFormState extends State<myForm> {
 
   @override
   Widget build(BuildContext context) => Scaffold(
-        appBar: AppBar(
-          backgroundColor: Colors.blueAccent,
-        ),
+        backgroundColor: Color(0xFF243951),
         body: Form(
           key: _formKey,
           child: ListView(
             padding: EdgeInsets.all(16),
             children: <Widget>[
-              Image.asset('img/user.png', height: 250,),
+              Image.asset(
+                'img/user.png',
+                height: 250,
+              ),
               const SizedBox(
                 height: 18,
               ),
@@ -52,11 +53,31 @@ class _myFormState extends State<myForm> {
               const SizedBox(
                 height: 16,
               ),
-              buildFild('Numero', number, 0),
+              buildFild('Nº Casa', number, 0),
               const SizedBox(
                 height: 16,
               ),
               buildFild('Telefone', phone, 10),
+              const SizedBox(
+                height: 16,
+              ),
+              ElevatedButton(
+                child: Text(
+                  'Cadastrar',
+                  style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      color: Color(0xFF000000),
+                      fontSize: 36),
+                ),
+                onPressed: () {},
+                style: ElevatedButton.styleFrom(
+                  primary: Color(0xFF3F71F0),
+                  minimumSize: Size(320, 80),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(30),
+                  ),
+                ),
+              ),
             ],
           ),
         ),
@@ -66,6 +87,8 @@ class _myFormState extends State<myForm> {
         decoration: InputDecoration(
           labelText: label,
           border: OutlineInputBorder(),
+          filled: true,
+          fillColor: Color(0xFFA0A8C5),
         ),
         validator: (arg) {
           if (arg!.length <= num) {
@@ -81,6 +104,8 @@ class _myFormState extends State<myForm> {
         decoration: InputDecoration(
           labelText: 'Email',
           border: OutlineInputBorder(),
+          filled: true,
+          fillColor: Color(0xFFA0A8C5),
         ),
         validator: (arg) {
           final pattern = r'(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9]+\.[a-zA-Z0-9-.]+$)';
